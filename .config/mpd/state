@@ -1,0 +1,32 @@
+sw_volume: 86
+audio_device_state:1:alsa for audio soundcard
+audio_device_state:1:toggle_visualizer
+state: pause
+current: 9
+time: 223.748000
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:persona-5/1-12. Tension.mp3
+1:persona-5/1-11. To Another World.mp3
+2:persona-5/1-07. Recall~Hint.mp3
+3:persona-5/1-05. Run Away~Arrest.mp3
+4:persona-5/1-04. Life Will Change.mp3
+5:persona-5/1-03. Escape.mp3
+6:persona-5/1-08. The Poem of Everyone’s Souls.mp3
+7:persona-5/1-18. Talk.mp3
+8:persona-5/1-15. King, Queen and Slave -another version-.mp3
+9:persona-5/1-01. Wake Up, Get Up, Get Out There.mp3
+10:persona-5/1-02. Phantom.mp3
+11:persona-5/1-06. Interrogation Room.mp3
+12:persona-5/1-10. Encounter.mp3
+13:persona-5/1-01. Wake Up, Get Up, Get Out There.mp3
+14:persona-5/1-02. Phantom.mp3
+15:persona-5/1-06. Interrogation Room.mp3
+16:persona-5/1-10. Encounter.mp3
+playlist_end
