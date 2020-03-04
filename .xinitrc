@@ -1,2 +1,4 @@
 ~/.fehbg &
 exec i3
+
+

@@ -15,3 +15,6 @@ alias m="ncmpcpp"
 set PS1='\u@\h \W\$ '
 export LC_ALL=en_US.UTF-8
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+[ "$(tty)" = "/dev/tty1" ] && ! pgrep -x Xorg >/dev/null && exec startx
+#[[ -f ~/.Xmodmap ]] && xmodmap ~/.Xmodmap
+

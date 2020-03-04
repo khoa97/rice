@@ -1,0 +1,3 @@
+clear Lock
+keycode 9 = Shift_R NoSymbol Shift_R
+keycode 66 = Escape NoSymbol Escape
