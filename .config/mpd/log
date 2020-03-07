@@ -724,3 +724,116 @@ Mar 03 23:06 : exception: OutputThread could not get realtime scheduling, contin
 Mar 03 23:06 : player: played "general/1-41 With Vengeance.mp3"
 Mar 03 23:06 : client: [0] closed
 Mar 03 23:06 : client: [1] opened from 127.0.0.1:34310
+Mar 04 12:49 : player: played "persona-5/3-22. Rivers in the Desert.mp3"
+Mar 04 12:49 : client: [2] opened from 127.0.0.1:36858
+Mar 04 12:49 : client: [2] closed
+Mar 04 12:50 : client: [1] closed
+Mar 04 12:50 : client: [3] opened from 127.0.0.1:36864
+Mar 04 15:37 : client: [4] opened from 127.0.0.1:39502
+Mar 04 15:37 : client: [4] closed
+Mar 04 15:37 : client: [5] opened from 127.0.0.1:39506
+Mar 04 15:37 : client: [5] closed
+Mar 04 15:37 : client: [6] opened from 127.0.0.1:39510
+Mar 04 15:37 : client: [6] closed
+Mar 04 15:37 : client: [7] opened from 127.0.0.1:39514
+Mar 04 15:37 : client: [7] closed
+Mar 04 15:38 : client: [3] closed
+Mar 04 15:38 : player: played "yakuza-0/Yakuza 0 OST - 35 Make You Free-8oEtz0Ziij8.mp3"
+Mar 04 15:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 15:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 15:39 : client: [0] opened from 127.0.0.1:46546
+Mar 04 15:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 15:45 : client: [1] opened from 127.0.0.1:46724
+Mar 04 15:45 : client: [1] closed
+Mar 04 15:45 : client: [2] opened from 127.0.0.1:46728
+Mar 04 15:45 : client: [2] closed
+Mar 04 18:01 : client: [0] closed
+Mar 04 18:26 : player: played "general/1-41 With Vengeance.mp3"
+Mar 04 19:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 19:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 19:07 : client: [0] opened from 127.0.0.1:40408
+Mar 04 19:07 : client: [1] opened from 127.0.0.1:40424
+Mar 04 19:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 19:07 : client: [1] closed
+Mar 04 19:07 : client: [2] opened from 127.0.0.1:40428
+Mar 04 19:07 : client: [2] closed
+Mar 05 00:52 : client: [3] opened from 127.0.0.1:43466
+Mar 05 00:52 : client: [3] closed
+Mar 05 00:52 : client: [4] opened from 127.0.0.1:43470
+Mar 05 00:52 : client: [4] closed
+Mar 05 00:52 : client: [0] closed
+Mar 05 00:52 : player: played "general/1-41 With Vengeance.mp3"
+Mar 05 12:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 12:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 12:23 : client: [0] opened from 127.0.0.1:46104
+Mar 05 12:23 : client: [0] closed
+Mar 05 12:23 : player: played "general/1-41 With Vengeance.mp3"
+Mar 05 12:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 12:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 12:43 : client: [0] opened from 127.0.0.1:60902
+Mar 05 12:44 : client: [0] closed
+Mar 05 12:44 : player: played "general/1-41 With Vengeance.mp3"
+Mar 05 12:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 12:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 12:57 : client: [0] opened from 127.0.0.1:45998
+Mar 05 12:58 : player: played "general/1-41 With Vengeance.mp3"
+Mar 05 13:17 : client: [0] closed
+Mar 05 13:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 13:18 : client: [0] opened from 127.0.0.1:56182
+Mar 05 13:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 13:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 13:41 : player: played "general/1-41 With Vengeance.mp3"
+Mar 05 13:41 : client: [1] opened from 127.0.0.1:56224
+Mar 05 13:41 : client: [1] closed
+Mar 05 13:44 : player: played "general/1-41 With Vengeance.mp3"
+Mar 05 13:48 : player: played "yakuza-0/Yakuza 0 OST - 85 ×3シャイン Full Spec Edition-bxtSOnUoN8E.mp3"
+Mar 05 13:51 : player: played "yakuza-0/Yakuza 0 OST - 18 One Eyed Dancer-Kbu9oyP-Jmg.mp3"
+Mar 05 13:54 : player: played "yakuza-0/Yakuza 0 OST - 21 TAKUMI 1988-n6z18b99NGA.mp3"
+Mar 05 13:55 : client: [0] closed
+Mar 05 13:55 : player: played "yakuza-0/Yakuza 0 OST - 63 サード・インプレッション-gFscaY2USeg.mp3"
+Mar 05 13:58 : player: played "general/Young Thug - Ecstasy (Official Audio).mp3"
+Mar 05 14:01 : player: played "yakuza-0/Yakuza 0 OST - 03 Force Addiction-HzfkzRUaXvc.mp3"
+Mar 05 14:01 : client: [2] opened from 127.0.0.1:56548
+Mar 05 14:01 : client: [2] closed
+Mar 05 14:02 : client: [3] opened from 127.0.0.1:56554
+Mar 05 14:03 : player: played "yakuza-0/Yakuza 0 OST - 55 interspace garden-e8wA5DkAqJw.mp3"
+Mar 05 14:04 : client: [3] closed
+Mar 05 14:05 : client: [4] opened from 127.0.0.1:56574
+Mar 05 14:05 : client: [5] opened from 127.0.0.1:56576
+Mar 05 14:05 : client: [6] opened from 127.0.0.1:56582
+Mar 05 14:05 : client: [7] opened from 127.0.0.1:56586
+Mar 05 14:05 : client: [7] closed
+Mar 05 14:05 : client: [6] closed
+Mar 05 14:05 : client: [4] closed
+Mar 05 14:08 : player: played "yakuza-0/Yakuza 0 OST - 16 One Eyed Assassin-GMzgYrOn-aM.mp3"
+Mar 05 14:09 : client: [8] opened from 127.0.0.1:56704
+Mar 05 14:09 : client: [8] closed
+Mar 05 16:24 : client: [5] closed
+Mar 05 16:24 : player: played "yakuza-0/Yakuza 0 OST - 03 Force Addiction-HzfkzRUaXvc.mp3"
+Mar 05 16:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 16:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 16:25 : client: [0] opened from 127.0.0.1:57686
+Mar 05 16:25 : client: [1] opened from 127.0.0.1:57692
+Mar 05 16:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 16:25 : player: played "general/Persona 5 OST- Beneath the Mask.mp3"
+Mar 05 16:26 : client: [1] closed
+Mar 06 00:26 : client: [0] closed
+Mar 06 00:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 00:27 : client: [0] opened from 127.0.0.1:51882
+Mar 06 00:27 : client: [1] opened from 127.0.0.1:51888
+Mar 06 00:45 : client: [1] closed
+Mar 06 00:45 : client: [0] closed
+Mar 06 12:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 12:39 : client: [0] opened from 127.0.0.1:45502
+Mar 06 12:39 : client: [1] opened from 127.0.0.1:45508
+Mar 06 12:39 : client: [1] closed
+Mar 06 18:41 : client: [2] opened from 127.0.0.1:48954
+Mar 06 18:41 : client: [2] closed
+Mar 06 18:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 18:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 18:41 : client: [3] opened from 127.0.0.1:48958
+Mar 06 18:41 : client: [3] closed
+Mar 06 20:42 : client: [4] opened from 127.0.0.1:49956
+Mar 06 20:42 : client: [4] closed
+Mar 06 20:42 : client: [5] opened from 127.0.0.1:49960
+Mar 06 20:42 : client: [5] closed
