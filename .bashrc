@@ -14,9 +14,11 @@ alias m="ncmpcpp"
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias vpn="pia-client"
 alias mkdir="mkdir -p"
+alias ps3="sudo rpcs3"
+alias ps2="sudo PCSX2"
 set PS1='\u@\h \W\$ '
 export LC_ALL=en_US.UTF-8
-export PATH=$PATH:/opt/piavpn:~/Documents/bin
+export PATH=$PATH:/opt/piavpn/bin:~/Documents/bin:~/hdd1/pycharm-2019.3.3/bin
 [ "$(tty)" = "/dev/tty1" ] && ! pgrep -x Xorg >/dev/null && exec startx
 #xmodmap ~/.Xmodmap
 

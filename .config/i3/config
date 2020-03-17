@@ -213,11 +213,12 @@ mode "swap" {
     bindsym Escape unmark "swapee"; mode "default";
 }
 
-assign [class=discord] $ws4
+assign [class=discord] $ws2
 bindsym $mod+Shift+s mark --add "swapee"; mode "swap"
 exec_always --no-startup-id "compton -b"
 exec_always --no-startup-id  discord 
 exec_always --no-startup-id i3-msg 'workspace number $ws3; exec konsole --hold -e "ncmpcpp";'
+exec_always --no-startup-id imwheel
 bindsym $mod+p			exec --no-startup-id mpc toggle
 bindsym $mod+ greater			exec --no-startup-id mpc next
 bindsym $mod+Shift+minus move scratchpad

@@ -1,9 +1,9 @@
-sw_volume: 70
+sw_volume: 66
 audio_device_state:1:alsa for audio soundcard
 audio_device_state:1:toggle_visualizer
 state: pause
-current: 1169
-time: 2.959000
+current: 225
+time: 55.436000
 random: 1
 repeat: 0
 single: 0
@@ -1274,4 +1274,7 @@ playlist_begin
 1259:persona-5/3-30. With the Stars and Us -piano version-.mp3
 1260:persona-5/3-31. With the Stars and Us.mp3
 1261:persona-5/3-32. Wake Up, Get Up, Get Out There -opening movie version-.mp3
+1262:general/1-41 With Vengeance.mp3
+1263:general/2-35 Friday Night.mp3
+1264:general/1-41 With Vengeance.mp3
 playlist_end

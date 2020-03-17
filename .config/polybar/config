@@ -43,7 +43,7 @@ separator= |
 
 
 modules-left =  i3
-modules-center = mpd 
+#modules-center = mpd 
 modules-right =  cpu openweathermap-detailed date time
 [module/cpu]
 type = internal/cpu

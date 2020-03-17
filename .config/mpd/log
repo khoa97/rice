@@ -837,3 +837,228 @@ Mar 06 20:42 : client: [4] opened from 127.0.0.1:49956
 Mar 06 20:42 : client: [4] closed
 Mar 06 20:42 : client: [5] opened from 127.0.0.1:49960
 Mar 06 20:42 : client: [5] closed
+Mar 06 23:28 : client: [0] closed
+Mar 06 23:28 : player: played "persona-5/1-18. Talk.mp3"
+Mar 07 12:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 12:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 12:34 : client: [0] opened from 127.0.0.1:53430
+Mar 07 12:34 : client: [1] opened from 127.0.0.1:53436
+Mar 07 12:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 12:39 : client: [2] opened from 127.0.0.1:53726
+Mar 07 12:39 : client: [2] closed
+Mar 07 13:03 : client: [1] closed
+Mar 07 18:39 : client: [0] closed
+Mar 07 18:39 : player: played "persona-5/2-19. Life Goes On.mp3"
+Mar 07 18:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 18:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 18:43 : player: played "persona-5/2-19. Life Goes On.mp3"
+Mar 07 18:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 18:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 18:46 : player: played "persona-5/2-19. Life Goes On.mp3"
+Mar 07 18:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 18:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 18:48 : player: played "persona-5/2-19. Life Goes On.mp3"
+Mar 07 18:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 18:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 18:54 : player: played "persona-5/2-19. Life Goes On.mp3"
+Mar 07 18:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 18:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 18:55 : client: [0] opened from 127.0.0.1:53608
+Mar 07 18:55 : client: [1] opened from 127.0.0.1:53614
+Mar 07 19:04 : client: [0] closed
+Mar 07 19:04 : client: [1] closed
+Mar 07 19:04 : player: played "persona-5/2-19. Life Goes On.mp3"
+Mar 07 19:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 19:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 19:06 : client: [0] opened from 127.0.0.1:47012
+Mar 07 19:06 : client: [1] opened from 127.0.0.1:47018
+Mar 07 19:06 : client: [1] closed
+Mar 07 21:07 : client: [0] closed
+Mar 07 21:07 : client: [2] opened from 127.0.0.1:49496
+Mar 07 21:07 : client: [3] opened from 127.0.0.1:49502
+Mar 07 23:28 : client: [2] closed
+Mar 07 23:28 : client: [3] closed
+Mar 07 23:28 : player: played "persona-5/2-19. Life Goes On.mp3"
+Mar 08 11:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 08 11:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 08 11:40 : client: [0] opened from 127.0.0.1:56468
+Mar 08 11:40 : client: [1] opened from 127.0.0.1:56474
+Mar 08 22:49 : client: [0] closed
+Mar 08 22:49 : client: [1] closed
+Mar 08 22:49 : player: played "persona-5/2-19. Life Goes On.mp3"
+Mar 08 23:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 08 23:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 08 23:00 : client: [0] opened from 127.0.0.1:58072
+Mar 08 23:00 : client: [1] opened from 127.0.0.1:58078
+Mar 08 23:00 : client: [1] closed
+Mar 08 23:01 : client: [0] closed
+Mar 08 23:01 : player: played "persona-5/2-19. Life Goes On.mp3"
+Mar 09 20:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 09 20:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 09 20:46 : client: [0] opened from 127.0.0.1:45054
+Mar 09 20:46 : client: [1] opened from 127.0.0.1:45060
+Mar 09 23:09 : client: [1] closed
+Mar 09 23:10 : client: [0] closed
+Mar 09 23:10 : player: played "persona-5/2-19. Life Goes On.mp3"
+Mar 09 23:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 09 23:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 09 23:15 : client: [0] opened from 127.0.0.1:36654
+Mar 09 23:15 : client: [1] opened from 127.0.0.1:36662
+Mar 09 23:22 : client: [1] closed
+Mar 09 23:36 : client: [0] closed
+Mar 09 23:36 : player: played "persona-5/2-19. Life Goes On.mp3"
+Mar 10 12:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 12:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 12:38 : client: [0] opened from 127.0.0.1:42640
+Mar 10 12:38 : client: [1] opened from 127.0.0.1:42646
+Mar 10 14:49 : client: [2] opened from 127.0.0.1:43850
+Mar 10 14:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 14:49 : client: [2] closed
+Mar 10 14:49 : client: [3] opened from 127.0.0.1:43854
+Mar 10 14:49 : client: [3] closed
+Mar 10 14:50 : client: [1] closed
+Mar 10 14:50 : client: [0] closed
+Mar 10 14:50 : player: played "persona-5/2-19. Life Goes On.mp3"
+Mar 10 14:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 14:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 14:55 : client: [0] opened from 127.0.0.1:35684
+Mar 10 14:55 : client: [1] opened from 127.0.0.1:35690
+Mar 10 15:13 : client: [0] closed
+Mar 10 15:13 : client: [1] closed
+Mar 10 15:13 : player: played "persona-5/2-19. Life Goes On.mp3"
+Mar 10 15:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 15:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 15:55 : client: [0] opened from 127.0.0.1:33584
+Mar 10 15:55 : client: [1] opened from 127.0.0.1:33590
+Mar 10 15:55 : client: [1] closed
+Mar 10 15:55 : client: [2] opened from 127.0.0.1:33606
+Mar 10 15:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 15:55 : client: [2] closed
+Mar 10 15:56 : player: played "persona-5/2-19. Life Goes On.mp3"
+Mar 10 15:57 : player: played "yakuza-0/Yakuza 0 OST - 01 幼龍の嘶き  mp4-Yy_kAjr0Ero.mp3"
+Mar 10 15:57 : client: [3] opened from 127.0.0.1:33740
+Mar 10 15:57 : client: [3] closed
+Mar 10 16:45 : client: [0] closed
+Mar 10 16:45 : player: played "yakuza-0/Yakuza 0 OST - 31 Wounded Hound-c9PPlq4rOB0.mp3"
+Mar 11 07:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 07:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 07:43 : client: [0] opened from 127.0.0.1:35904
+Mar 11 07:43 : client: [1] opened from 127.0.0.1:35910
+Mar 11 19:15 : client: [0] closed
+Mar 11 19:15 : client: [1] closed
+Mar 11 19:15 : player: played "yakuza-0/Yakuza 0 OST - 31 Wounded Hound-c9PPlq4rOB0.mp3"
+Mar 11 19:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 19:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 19:45 : client: [0] opened from 127.0.0.1:48178
+Mar 11 19:45 : client: [1] opened from 127.0.0.1:48184
+Mar 11 19:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 19:46 : client: [2] opened from 127.0.0.1:48200
+Mar 11 19:46 : client: [2] closed
+Mar 11 20:00 : client: [0] closed
+Mar 11 20:00 : client: [1] closed
+Mar 11 20:00 : player: played "general/2-35 Friday Night.mp3"
+Mar 11 20:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 20:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 20:01 : client: [0] opened from 127.0.0.1:43850
+Mar 11 20:01 : client: [1] opened from 127.0.0.1:43856
+Mar 11 20:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 20:09 : client: [0] closed
+Mar 11 20:09 : client: [2] opened from 127.0.0.1:44064
+Mar 11 20:09 : client: [3] opened from 127.0.0.1:44070
+Mar 11 20:09 : client: [3] closed
+Mar 11 20:09 : client: [1] closed
+Mar 11 20:10 : client: [2] closed
+Mar 11 20:10 : client: [4] opened from 127.0.0.1:44142
+Mar 11 20:10 : client: [5] opened from 127.0.0.1:44148
+Mar 12 00:19 : client: [4] closed
+Mar 12 00:19 : client: [5] closed
+Mar 12 00:19 : player: played "general/1-41 With Vengeance.mp3"
+Mar 12 11:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 11:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 11:26 : client: [0] opened from 127.0.0.1:49252
+Mar 12 11:26 : client: [1] opened from 127.0.0.1:49258
+Mar 12 15:05 : client: [1] closed
+Mar 12 16:27 : client: [0] closed
+Mar 12 16:27 : player: played "general/1-41 With Vengeance.mp3"
+Mar 12 16:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 16:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 16:28 : client: [0] opened from 127.0.0.1:60890
+Mar 12 16:28 : client: [1] opened from 127.0.0.1:60896
+Mar 12 17:45 : player: played "general/1-41 With Vengeance.mp3"
+Mar 12 17:45 : client: [1] closed
+Mar 12 21:59 : client: [2] opened from 127.0.0.1:37328
+Mar 12 21:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 21:59 : client: [2] closed
+Mar 12 21:59 : client: [3] opened from 127.0.0.1:37332
+Mar 12 21:59 : client: [3] closed
+Mar 12 23:49 : client: [0] closed
+Mar 12 23:49 : player: played "general/1-41 With Vengeance.mp3"
+Mar 13 12:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 13 12:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 13 12:17 : client: [0] opened from 127.0.0.1:44820
+Mar 13 12:17 : client: [1] opened from 127.0.0.1:44826
+Mar 13 12:17 : client: [1] closed
+Mar 13 19:28 : client: [0] closed
+Mar 13 19:28 : player: played "general/1-41 With Vengeance.mp3"
+Mar 13 19:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 13 19:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 13 19:44 : client: [0] opened from 127.0.0.1:50976
+Mar 13 19:44 : client: [1] opened from 127.0.0.1:50982
+Mar 13 19:44 : client: [1] closed
+Mar 13 21:17 : client: [2] opened from 127.0.0.1:51706
+Mar 13 21:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 13 21:17 : client: [2] closed
+Mar 13 21:21 : player: played "general/1-41 With Vengeance.mp3"
+Mar 13 21:22 : player: played "persona-5/2-31. The Spirit.mp3"
+Mar 13 21:23 : client: [3] opened from 127.0.0.1:51892
+Mar 13 21:23 : client: [3] closed
+Mar 14 00:21 : client: [0] closed
+Mar 14 00:21 : player: played "yakuza-0/Yakuza 0 OST - 31 Wounded Hound-c9PPlq4rOB0.mp3"
+Mar 14 12:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 12:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 12:11 : player: played "yakuza-0/Yakuza 0 OST - 31 Wounded Hound-c9PPlq4rOB0.mp3"
+Mar 14 12:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 12:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 12:12 : client: [0] opened from 127.0.0.1:55860
+Mar 14 12:12 : client: [1] opened from 127.0.0.1:55866
+Mar 14 14:55 : client: [1] closed
+Mar 16 00:03 : client: [0] closed
+Mar 16 00:03 : player: played "yakuza-0/Yakuza 0 OST - 31 Wounded Hound-c9PPlq4rOB0.mp3"
+Mar 16 12:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 12:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 12:55 : client: [0] opened from 127.0.0.1:38100
+Mar 16 12:55 : client: [1] opened from 127.0.0.1:38106
+Mar 16 12:56 : client: [0] closed
+Mar 16 12:56 : client: [1] closed
+Mar 16 12:56 : player: played "yakuza-0/Yakuza 0 OST - 31 Wounded Hound-c9PPlq4rOB0.mp3"
+Mar 16 12:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 12:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 12:57 : client: [0] opened from 127.0.0.1:53886
+Mar 16 12:57 : client: [1] opened from 127.0.0.1:53892
+Mar 16 12:57 : client: [1] closed
+Mar 16 19:58 : client: [0] closed
+Mar 16 19:58 : player: played "yakuza-0/Yakuza 0 OST - 31 Wounded Hound-c9PPlq4rOB0.mp3"
+Mar 16 19:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 19:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 19:59 : client: [0] opened from 127.0.0.1:44702
+Mar 16 19:59 : client: [1] opened from 127.0.0.1:44708
+Mar 16 19:59 : client: [1] closed
+Mar 17 00:15 : client: [0] closed
+Mar 17 00:15 : player: played "yakuza-0/Yakuza 0 OST - 31 Wounded Hound-c9PPlq4rOB0.mp3"
+Mar 17 01:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 01:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 01:15 : client: [0] opened from 127.0.0.1:46844
+Mar 17 01:15 : client: [1] opened from 127.0.0.1:46850
+Mar 17 01:15 : client: [1] closed
+Mar 17 01:16 : client: [0] closed
+Mar 17 01:16 : client: [2] opened from 127.0.0.1:46868
+Mar 17 01:16 : client: [2] closed
+Mar 17 01:48 : player: played "yakuza-0/Yakuza 0 OST - 31 Wounded Hound-c9PPlq4rOB0.mp3"
+Mar 17 01:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 01:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 01:48 : client: [0] opened from 127.0.0.1:36416
+Mar 17 01:48 : client: [0] closed
+Mar 17 01:56 : player: played "yakuza-0/Yakuza 0 OST - 31 Wounded Hound-c9PPlq4rOB0.mp3"
+Mar 17 11:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 11:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 11:45 : client: [0] opened from 127.0.0.1:54886
