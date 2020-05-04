@@ -4,7 +4,7 @@ get_icon() {
     case $1 in
         01d) icon="";;
         01n) icon="";;
-        02d) icon="";;
+        02d) icon="";;
         02n) icon="";;
         03*) icon="";;
         04*) icon="";;
@@ -16,7 +16,7 @@ get_icon() {
         11n) icon="";;
         13d) icon="";;
         13n) icon="";;
-        50d) icon="";;
+        50d) icon="";;
         50n) icon="";;
         *) icon="";
     esac

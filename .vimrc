@@ -1,9 +1,10 @@
 set number
-set relativenumber
+"set relativenumber
 syntax on
 
 
 nnoremap <C-e> 10<C-e>
+nnoremap <C-y> 10<C-y>
 
 if empty(glob('~/.vim/autoload/plug.vim'))
   silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
@@ -19,3 +20,4 @@ call plug#end()
 
 set ttimeoutlen=50
 let g:airline_theme='ayu_dark'
+let g:airline#extensions#wordcount#enabled = 1

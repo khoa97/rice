@@ -45,7 +45,8 @@ bindsym $mod+Return exec i3-sensible-terminal
 
 # open programs
 bindsym $mod+shift+f exec firefox
-
+bindsym $mod+shift+d exec discord
+bindsym $mod+shift+m exec spotify 
 # kill focused window
 bindsym $mod+q kill
 
@@ -217,9 +218,11 @@ assign [class=discord] $ws2
 bindsym $mod+Shift+s mark --add "swapee"; mode "swap"
 exec_always --no-startup-id "compton -b"
 exec_always --no-startup-id  discord 
-exec_always --no-startup-id i3-msg 'workspace number $ws3; exec konsole --hold -e "ncmpcpp";'
+#exec_always --no-startup-id i3-msg 'workspace number $ws3; exec konsole --hold -e "ncmpcpp";'
 exec_always --no-startup-id imwheel
-bindsym $mod+p			exec --no-startup-id mpc toggle
-bindsym $mod+ greater			exec --no-startup-id mpc next
+bindsym $mod+p			exec --no-startup-id mpc -h 10.0.0.168 toggle
+bindsym $mod+ greater			exec --no-startup-id mpc -h 10.0.0.168 next
+bindsym $mod+Shift+End exec --no-startup-id shutdown now
+bindsym $mod+Shift+Delete exec --no-startup-id reboot
 bindsym $mod+Shift+minus move scratchpad
 bindsym $mod+minus scratchpad show
