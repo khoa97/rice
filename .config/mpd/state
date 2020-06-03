@@ -1,9 +1,9 @@
-sw_volume: 46
+sw_volume: 90
 audio_device_state:1:alsa for audio soundcard
 audio_device_state:1:toggle_visualizer
 state: pause
-current: 6
-time: 100.593000
+current: 5
+time: 11.525000
 random: 1
 repeat: 0
 single: 0
@@ -58,4 +58,6 @@ playlist_begin
 43:general/No More What Ifs -instrumental version.mp3
 44:general/Catherine - Full Body - OST - Silent Sheep - Soundtrack #1.mp3
 45:general/Shoji Meguro - I'll Face Myself (special ver.).mp3
+46:general/Koi No Disco Queen (恋のディスコクイーン).mp3
+47:general/Never More.mp3
 playlist_end
